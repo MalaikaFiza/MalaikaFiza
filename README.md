@@ -34,18 +34,6 @@ I focus on **clean UI, performance, and real-world projects** to continuously gr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
 ## 🧠 Currently Learning
 
 - React.js & modern frontend development  
