@@ -1,96 +1,189 @@
-## Hi there 👋
 
 <div align="center">
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Malaika+Zulqarnain+👋;Frontend+Developer+in+Progress;IT+Student+%7C+Future+Engineer;Building+Projects+%26+Growing+Daily" />
+# 👋 Hi, I'm Malaika Zulqarnain
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer;IT+Student+%7C+Software+Engineer;Building+Modern+Web+Applications;AI-Powered+Development+with+AntiGravity+AI;Always+Learning+Something+New!" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 🌌 About Me
 
-Hi, I'm **Malaika Zulqarnain**, an IT student passionate about **frontend development** and building modern, user-friendly web applications.
+Hi! I'm **Malaika Zulqarnain**, an **IT Student** passionate about **Full Stack Web Development**.
 
-I focus on **clean UI, performance, and real-world projects** to continuously grow my skills.
+I enjoy building modern, responsive, and user-friendly web applications while continuously improving my frontend, backend, and problem-solving skills. I also use **AntiGravity AI** to rapidly prototype and build AI-assisted web applications.
 
----
-
-## 🚀 Tech Stack
-
-### 🌐 Frontend
-- HTML5, CSS3, JavaScript  
-- React.js (Learning)  
-- Tailwind CSS  
-
-### ⚙️ Programming
-- C, C++, Java, Python  
-
-### 🔧 Tools
-- Git & GitHub  
-- VS Code  
-- Figma (basic UI/UX)  
+- 🎓 IT Student
+- 💻 Aspiring Full Stack Developer
+- 🤖 Building projects with **AntiGravity AI**
+- 🌱 Currently learning **React.js, Node.js, Express.js & MongoDB**
+- 🐍 Proficient in **Python**
+- 🚀 Passionate about creating modern web applications
 
 ---
 
-## 🧠 Currently Learning
+# 🚀 Tech Stack
 
-- React.js & modern frontend development  
-- Next.js basics  
-- Backend fundamentals (Node.js, Express)  
-- Problem-solving for interviews  
+## 🎨 Frontend
 
----
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React.js *(Learning)*
 
-## 💼 Internship Focus
+## ⚙️ Backend
 
-I am currently preparing for **Frontend Developer Internships** and actively working on:
+- Node.js *(Learning)*
+- Express.js *(Learning)*
 
-- Building real-world projects  
-- Strengthening JavaScript concepts  
-- Improving UI/UX skills  
-- Practicing interview questions  
+## 🗄️ Databases
 
----
+- MySQL
+- MongoDB *(Learning)*
 
-## 🚀 Projects
+## 💻 Programming Languages
 
-### ⚡ Speedy Fingers
-A typing test website to improve typing speed and accuracy.
+- C
+- C++
+- Java
+- Python
+- JavaScript
 
-- Real-time typing tracking  
-- Speed & accuracy calculation  
-- Clean UI design  
+## 🤖 AI Development
 
----
+- AntiGravity AI
+- AI-Assisted Development
+- Rapid Prototyping
 
-## 🎯 Goals
+## 🛠️ Tools
 
-- 🎯 Crack a frontend internship  
-- 🚀 Master React & full-stack basics  
-- 💡 Build impactful real-world apps  
-- 🏢 Launch my own startup  
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/MalaikaFiza
-- LinkedIn: www.linkedin.com/in/malaika-zulqarnain-7029422b6 
+- Git
+- GitHub
+- VS Code
+- Figma (Basic UI/UX)
 
 ---
 
-## ✨ Fun Facts
+# 📊 GitHub Statistics
 
-- 🎨 I love minimal & modern UI design  
-- 📚 Always learning something new  
-- 💻 Passionate about building things  
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+- React.js
+- Bootstrap
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Full Stack Web Development
+- Data Structures & Algorithms
+- Technical Interview Preparation
+
+---
+
+# 🤖 AI Development
+
+I use **AntiGravity AI** to build modern web applications and accelerate development.
+
+### Current Focus
+
+- AI-assisted Full Stack Development
+- Responsive Website Development
+- Modern UI/UX Design
+- Rapid Prototyping
+- Clean & Maintainable Code
+
+---
+
+# 💼 Career Focus
+
+Currently preparing for **Full Stack Developer Internships** by:
+
+- Building responsive Full Stack web applications
+- Developing backend APIs with Node.js & Express
+- Creating projects using AntiGravity AI
+- Improving React and JavaScript skills
+- Learning database integration
+- Practicing Data Structures & Algorithms
+- Preparing for technical interviews
+
+---
+
+# 🚀 Featured Projects
+
+## ⚡ Speedy Fingers
+
+A modern typing test website designed to improve typing speed and accuracy.
+
+### Features
+
+- ⌨️ Real-time Typing Test
+- 📈 Speed & WPM Calculation
+- 🎯 Accuracy Tracking
+- 📱 Responsive Design
+- 🎨 Modern User Interface
+
+---
+
+# 🎯 Goals
+
+- 💼 Secure a Full Stack Developer position
+- 🚀 Master modern Full Stack technologies
+- 🌐 Build scalable and user-friendly web applications
+- 🤖 Develop AI-powered applications using modern tools
+- 📚 Continuously learn new technologies and improve my skills
+- 🌍 Contribute to Open Source projects
+- 👩‍💻 Become a skilled Software Engineer and solve real-world problems through technology
+
+---
+
+# 📫 Connect With Me
+
+- 💻 GitHub: https://github.com/your-username
+- 💼 LinkedIn: your-linkedin-link
+
+---
+
+# ✨ Fun Facts
+
+- 🌌 I love futuristic Space & Galaxy-inspired designs.
+- 💻 I enjoy turning ideas into real-world applications.
+- 🤖 I use AI tools to enhance my productivity.
+- 📚 I believe learning is a lifelong journey.
+- 🚀 I enjoy solving problems through code.
 
 ---
 
 <div align="center">
 
-⭐ *"Code. Build. Grow. Repeat."*
+## 🌟 Motto
+
+### **"Code • Learn • Build • Innovate • Repeat"**
+
+⭐ Thanks for visiting my profile! ⭐
 
 </div>
