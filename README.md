@@ -71,26 +71,6 @@ I enjoy building modern, responsive, and user-friendly web applications while co
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📚 Currently Learning
 
 - React.js
@@ -164,7 +144,7 @@ A modern typing test website designed to improve typing speed and accuracy.
 # 📫 Connect With Me
 
 - 💻 GitHub: https://github.com/your-username
-- 💼 LinkedIn: your-linkedin-link
+- 💼 LinkedIn: https://www.linkedin.com/in/malaika-zulqarnain-7029422b6
 
 ---
 
